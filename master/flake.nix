@@ -1,5 +1,5 @@
 {
-  description = ''A simple but powerful task runner that lets you define your own commands by editing a YAML configuration file.'';
+  description = ''A nifty script runner.'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
