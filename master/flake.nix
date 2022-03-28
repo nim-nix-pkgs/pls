@@ -11,7 +11,6 @@
   inputs.src-pls-master.ref   = "refs/heads/master";
   inputs.src-pls-master.owner = "h3rald";
   inputs.src-pls-master.repo  = "pls";
-  inputs.src-pls-master.dir   = "";
   inputs.src-pls-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
